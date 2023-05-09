@@ -1,7 +1,7 @@
 # teste_selecao
 Exercício prático utilizando a linguagem Rust.
 
-link para acessar o exercício: https://www.beecrowd.com.br/judge/pt/problems/view/1035
+link para acessar o exercício: https://www.beecrowd.com.br/judge/pt/problems/view/1035 (necessário fazer login)
 
 Exercício do site do beecrow:
 
